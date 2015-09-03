@@ -1,0 +1,1 @@
+first working commit of brushless motor control library with TB6612FNG

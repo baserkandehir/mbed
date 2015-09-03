@@ -1,0 +1,6 @@
+data/ledControl.lib.i
+data/main.cpp.i
+data/brushlessController_L293D.lib.i
+data/mbed.bld.i
+data/brushlessController_TB6612FNG.lib.i
+data/MPU6050.lib.i
